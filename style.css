@@ -1,0 +1,18 @@
+.bluegrade{
+background-image:linear-gradient(skyblue, aquamarine ) ;
+color:white;}
+.features{
+  text-align: center
+}
+.note-card{
+  background-color: white;
+  width: 100px;
+  height: 90px;
+}
+.note-card:hover{
+  box-shadow: 0px 0px 5px 10px rgba(0, 0, 0, 0.5)
+}
+.botofpage{
+  background-color: darkslategray;
+  color: white
+}
